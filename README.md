@@ -35,14 +35,14 @@
     > 宾格 ：**us you them**
   + 物主代词  
     > 表示所有关系的代词称为物主代词，它有 **形容词性**物主代词 和 **名词性**物主代词  
-    ```
+    ```  
     形容词性物主代词  <单数> my  your  her  his  its  
                       <复数> our  your  their
     
     名词性物主代词    <单数> mine  yours  his  hers  its  
                       <复数> ours  yours  theirs
-    ```
-    
-    :EMOJICODE:
- 
+    ```  
+  + 指示代词  
+    > 英语中用来表示 这个 那个 这些 那些等指示概念的代词称为指示代词。指示代词有this,that,these,those,such,same等  
+  
    
