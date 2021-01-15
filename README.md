@@ -26,13 +26,23 @@
   + 代词的分类  
   > 在初中英语中常见的代词可分为人称代词，物主动词，指示代词，反身代词，相互代词，疑问代词和不定代词等 
 ---    
-  + 人称代词  **有人称 数和格**  
+  + 人称代词  **有人称 数和格的变化**  
     + 单数人称  
     > 主格 ： **i you he/her/it**  
     > 宾格 ： **me you him/her/it**  
     + 复数人称  
     > 主格 ：**we you they**  
     > 宾格 ：**us you them**
-   
+  + 物主代词  
+    > 表示所有关系的代词称为物主代词，它有 **形容词性**物主代词 和 **名词性**物主代词  
+    ```
+    形容词性物主代词  <单数> my  your  her  his  its  
+                      <复数> our  your  their
+    
+    名词性物主代词    <单数> mine  yours  his  hers  its  
+                      <复数> ours  yours  theirs
+    ```
+    
+    :EMOJICODE:
  
    
