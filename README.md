@@ -207,8 +207,8 @@
   in bed   卧床，在睡觉               in hospital   住院（指病人）           in office   在办公，执政
   in the bed   在床上                 in the hospital   （因事）在医院       in the office   在办公室里   
                
-  in place of 代替，而不是            go to school   上学                    in case of
-  in the place of 在...地方           go to the school   （因事）去学校      in the case of  
+  in place of 代替，而不是            go to school   上学                    in case of   万一，如果
+  in the place of 在...地方           go to the school   （因事）去学校      in the case of   就...来说，至于
   ```  
   
   
