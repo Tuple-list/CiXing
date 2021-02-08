@@ -190,7 +190,29 @@
       **不规则变化**<单独记忆>  
       eg ： well -> better -> best  
       
-      
+---  
+
++ **介词**  
+  + 介词的定义  
+  > 介词又叫前置词，一般放在名词的前面。它是一种虚词，一般不重读，不能在句子中独立充当成分，通常用来表示它后面
+  的名词，代词或相当于名词的词，短语或从句与其他句子成分的。  
+  + 介词的用法  
+  > 介词不能单独构成句子成分。它必须用在名词或相对于名词的成分之前组成短语，修饰动词，名词或动词，表示时间，地
+  点，空间或其他关系。介词后面的名词，代词或其他成分做介词的宾语。  
+  + 介词短语有无冠词在意思上的区别  
+  ```
+  at school   在校上学/求学           by day   白天                    in class   在上课，在课内
+  at the school   在学校              by the day   按日，论日          in the class   在这个班
+  
+  in bed   卧床，在睡觉               in hospital   住院（指病人）           in office   在办公，执政
+  in the bed   在床上                 in the hospital   （因事）在医院       in the office   在办公室里   
+               
+  in place of 代替，而不是            go to school   上学                    in case of
+  in the place of 在...地方           go to the school   （因事）去学校      in the case of  
+  ```  
+  
+  
+    
     
       
       
